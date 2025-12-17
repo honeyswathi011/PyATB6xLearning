@@ -1,0 +1,1 @@
+print("swathi","Teja","sushma")
